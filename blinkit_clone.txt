@@ -1,0 +1,110 @@
+Brief Overview of the project:
+
+Blinkit is a hyper-fast delivery service, and they will demonstrate how to recreate its website using simple HTML and CSS. They provide the necessary resources and tools required for the project, including a laptop or computer, a web browser, and Visual Studio Code.
+ 
+
+ The project covers the basics of HTML, CSS, and potentially JavaScript, and guides viewers through the process of building the Blinkit clone step by step.
+ 
+
+ Overall you will create a visually impressive website that can be shared on resumes and professional profiles.
+ 
+
+ There are different sections of the website, including the header, hero section, slider, and other elements. The goal is to recreate these sections exactly.
+
+Tools Required:
+
+The essential tools required for the project, such as a laptop or computer, a web browser, and Visual Studio Code—a popular code editor.
+
+Resources:
+
+Images: https://github.com/saksham-accio/Blinkit_Clone/blob/main/Blinkit%20Clone%20Resources
+ 
+
+ Design: https://drive.google.com/file/d/1IC73vN_rrKwwqhrDWMeybGEz1jaeJHel/view?usp=sharing
+
+ Features List
+
+These key features demonstrate the development of a responsive web page with a header, product cards, a scroll effect, a footer, and hosting on GitHub.
+
+Responsive Web Design: 
+The project is built with responsive web design principles, ensuring that the website adapts to different screen sizes and devices.
+Header Section: 
+The project includes a header section that contains a logo and a navigation menu. 
+The header is styled with CSS to have a specific background color, font size, and alignment.
+Product Cards:| 
+The main section of the website consists of multiple product cards. 
+Each product card has a defined structure using HTML elements. 
+CSS styles are applied to the product cards, including width, margin, padding, and background color.
+Product Card Styling: 
+Use various CSS properties to style the product cards. 
+The product title and description are styled with specific font sizes, colors, and margins. 
+The product action section, which may contain buttons or other interactive elements, is styled with proper alignment and spacing.
+Scroll Effect: 
+Add a scroll effect to the product card section. 
+By adding more product cards, the section becomes scrollable, allowing users to scroll through the cards.
+Footer Section: 
+The project includes a footer section at the bottom of the page. 
+The footer contains a "Made with ❤️" text. 
+CSS is used to center the footer and provide appropriate margin and padding.
+Hosting on GitHub: 
+Sign up for a GitHub account if not already done. 
+The project's code files are uploaded to a new GitHub repository. 
+The project is deployed using GitHub Pages, allowing the final result to be accessed through a hosted link.
+
+Guidelines
+
+Introduction and Setup: 
+Introduction of the project as a Blinkit clone, a web development project. 
+The project will involve HTML & CSS. 
+You must have basic knowledge of web development concepts. 
+We recommend using a code editor like Visual Studio Code.
+Project Structure: 
+The project will have a main HTML file and a CSS file for styling. 
+You must separate sections in the HTML file for different parts of the page.
+Building the Header Section: 
+Start by creating the header section in HTML, including a logo and a navigation menu. 
+Then add CSS styles to the header, including setting the background color, font size, and alignment.
+Creating the Main Section: 
+The main section will contain multiple product cards. 
+Define the structure of a product card using HTML 
+CSS styles are applied to the product card, including setting the width, margin, padding, and background color.
+Styling the Product Cards: 
+Apply different CSS properties to style the product cards. 
+Then set the font size, margin, and color for the product title and description. 
+Style the product action section to display the buttons in a row with proper alignment and spacing.
+Adding Scroll Effect: 
+Use CSS properties to add a scroll effect. 
+Add more product cards to demonstrate the effect. 
+By adding more cards, the section becomes scrollable.
+Creating the Footer Section: 
+Add a "Made with ❤️" text and style it with CSS. 
+The footer is centered and given appropriate margin and padding.
+Hosting the Project: 
+Use the process of hosting the project using GitHub. 
+Sign up for a GitHub account if not already done. 
+The code files are uploaded to a new GitHub repository. 
+The project is deployed using GitHub Pages.
+
+Marking Scheme
+
+Responsive Web Design (10 marks): 
+Implementation of responsive design principles Proper layout and formatting on different screen sizes and devices
+Header Section (10 marks): 
+Correct implementation of the header section with a logo 
+Proper navigation menu with functional links
+Product Cards (30 marks): 
+Correct structure and use of HTML elements for the product cards 
+CSS styling of product cards, including background color, width, and spacing 
+Proper display of product title, description, and action section
+Scroll Effect (15 marks): 
+Implementation of scrollable product card section 
+Smooth and visually appealing scrolling behavior
+Footer Section (5 marks): 
+Proper alignment and styling of the "Made with ❤️" text
+HTML Semantic Markup (10 marks): 
+Correct use of semantic HTML elements 
+Proper nesting and hierarchy of elements
+CSS Styling Techniques (10 marks): 
+Effective use of CSS selectors, including class and ID selectors 
+Proper use of CSS properties and values
+Deployment (10 marks)
